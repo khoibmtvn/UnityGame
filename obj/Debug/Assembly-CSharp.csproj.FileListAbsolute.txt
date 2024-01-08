@@ -1,0 +1,97 @@
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\nunit.framework.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEditor.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.DataContract.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEditor.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\nunit.framework.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.dll
+E:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.pdb
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\nunit.framework.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEditor.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.DataContract.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEditor.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\nunit.framework.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\obj\Debug\Assembly-CSharp.pdb
+D:\Pratice and Document\Nam 5\HK1\Luan van\LuanVan\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\mrlig\Desktop\Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\mrlig\Desktop\Final\obj\Debug\Assembly-CSharp.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\nunit.framework.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\nunit.framework.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\mrlig\Desktop\Final\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\mrlig\Desktop\Final\obj\Debug\Assembly-CSharp.pdb
